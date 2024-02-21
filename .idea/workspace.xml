@@ -1,29 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b903c184-0f89-4172-8134-8372b01856b5" name="Changes" comment="" />
+    <list default="true" id="b903c184-0f89-4172-8134-8372b01856b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/car.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lawmsangi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="66571e62-c981-4a29-ae53-b80d0ea7dbb9" />
+        <option name="url" value="https://github.com/Lawmsangi/python-lesson" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2cSLWHzmgv6HOw6NXsFziCu1GH4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.2dCollection.executor": "Run",
+    "Python.areaCalc.executor": "Run",
+    "Python.argsKwargs.executor": "Run",
+    "Python.arithmetic.executor": "Run",
+    "Python.builtInFunc.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.circumCircle.executor": "Run",
+    "Python.compoundInterest.executor": "Run",
+    "Python.concessionStand.executor": "Run",
+    "Python.conditional.executor": "Run",
+    "Python.countdownTimer.executor": "Run",
+    "Python.creditCardValidator.executor": "Run",
+    "Python.defaultarguments.executor": "Run",
+    "Python.diceroller.executor": "Run",
+    "Python.dictionaries.executor": "Run",
+    "Python.emailSlicer.executor": "Run",
+    "Python.encryptionprogram.executor": "Run",
+    "Python.forLoops.executor": "Run",
+    "Python.formatSpecifier.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.generateRandomNo.executor": "Run",
+    "Python.hypotenuse.executor": "Run",
+    "Python.keywordArgument.executor": "Run",
+    "Python.logicalOperators.executor": "Run",
+    "Python.madLibs.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mathModule.executor": "Run",
+    "Python.modules.executor": "Run",
+    "Python.nestedLoops.executor": "Run",
+    "Python.quizGame.executor": "Run",
+    "Python.radiusCircle.executor": "Run",
+    "Python.rockpaperscissors.executor": "Run",
+    "Python.scopeResolution.executor": "Run",
+    "Python.shopCart.executor": "Run",
+    "Python.shoppingCart.executor": "Run",
+    "Python.stringIndexing.executor": "Run",
+    "Python.stringMethods.executor": "Run",
+    "Python.temperatureConverter.executor": "Run",
+    "Python.userInput.executor": "Run",
+    "Python.validateUserExercise.executor": "Run",
+    "Python.weightConverter.executor": "Run",
+    "Python.whileLoop.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "vcs.Git"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -66,17 +148,374 @@
       <option name="presentableId" value="Default" />
       <updated>1708100064339</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create OOP lessons using car">
+      <option name="closed" value="true" />
+      <created>1708102219148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708102219148</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Learn collection">
+      <option name="closed" value="true" />
+      <created>1708107747088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708107747088</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Learn collection">
+      <option name="closed" value="true" />
+      <created>1708182026389</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708182026389</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Done 3 Exercises">
+      <option name="closed" value="true" />
+      <created>1708184561396</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708184561396</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Exercise on radius of a circle">
+      <option name="closed" value="true" />
+      <created>1708191874079</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708191874079</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Exercise on arithmetic">
+      <option name="closed" value="true" />
+      <created>1708191888460</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708191888460</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Exercise on hypotenuse">
+      <option name="closed" value="true" />
+      <created>1708191900535</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708191900535</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Learn math module">
+      <option name="closed" value="true" />
+      <created>1708191933255</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708191933255</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Exercise on circumference of a circle">
+      <option name="closed" value="true" />
+      <created>1708191954920</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708191954920</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Exercise on circumference of a circle">
+      <option name="closed" value="true" />
+      <created>1708191965205</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708191965205</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add calculator.py">
+      <option name="closed" value="true" />
+      <created>1708250880238</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708250880238</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add conditional.py">
+      <option name="closed" value="true" />
+      <created>1708250908371</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708250908371</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add logicalOperators.py">
+      <option name="closed" value="true" />
+      <created>1708250923704</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708250923704</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add temperatureConverter.py">
+      <option name="closed" value="true" />
+      <created>1708250934483</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708250934483</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add weightConverter.py">
+      <option name="closed" value="true" />
+      <created>1708250944893</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1708250944893</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add emailSlicer.py">
+      <option name="closed" value="true" />
+      <created>1708359073638</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1708359073638</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add formatSpecifier.py">
+      <option name="closed" value="true" />
+      <created>1708359084410</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1708359084410</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Add stringMethods.py">
+      <option name="closed" value="true" />
+      <created>1708359105878</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1708359105878</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add validateUserExercise.py">
+      <option name="closed" value="true" />
+      <created>1708359310145</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1708359310145</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add whileLoop.py">
+      <option name="closed" value="true" />
+      <created>1708359320273</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1708359320273</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Add compoundInterest.py">
+      <option name="closed" value="true" />
+      <created>1708410444453</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1708410444453</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Add countdownTimer.py">
+      <option name="closed" value="true" />
+      <created>1708410457114</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1708410457114</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Add forLoops.py">
+      <option name="closed" value="true" />
+      <created>1708410472732</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1708410472732</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add nestedLoops.py">
+      <option name="closed" value="true" />
+      <created>1708410494090</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1708410494090</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add 2dCollection.py">
+      <option name="closed" value="true" />
+      <created>1708428523008</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1708428523008</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add creditCardValidator.py">
+      <option name="closed" value="true" />
+      <created>1708428537280</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1708428537280</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Add shopCart.py">
+      <option name="closed" value="true" />
+      <created>1708428548798</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1708428548798</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Add quizGame.py">
+      <option name="closed" value="true" />
+      <created>1708428561854</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1708428561854</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Add concessionStand.py">
+      <option name="closed" value="true" />
+      <created>1708452656728</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1708452656728</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Add diceroller.py">
+      <option name="closed" value="true" />
+      <created>1708452670625</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1708452670625</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Add dictionaries.py">
+      <option name="closed" value="true" />
+      <created>1708452682610</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1708452682610</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Add generateRandomNo.py">
+      <option name="closed" value="true" />
+      <created>1708452694633</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1708452694633</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Add rockpaperscissors.py">
+      <option name="closed" value="true" />
+      <created>1708452707884</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1708452707884</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Add functions.py">
+      <option name="closed" value="true" />
+      <created>1708505399273</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1708505399273</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Add scopeResolution.py">
+      <option name="closed" value="true" />
+      <created>1708505410061</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1708505410061</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Add keywordArgument.py">
+      <option name="closed" value="true" />
+      <created>1708505420982</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1708505420982</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Add exampleModule.py">
+      <option name="closed" value="true" />
+      <created>1708505437729</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1708505437729</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Add modules.py">
+      <option name="closed" value="true" />
+      <created>1708505447127</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1708505447127</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Add argsKwargs.py">
+      <option name="closed" value="true" />
+      <created>1708505464682</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1708505464682</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Add defaultarguments.py">
+      <option name="closed" value="true" />
+      <created>1708505476167</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1708505476167</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Add encryptionprogram.py">
+      <option name="closed" value="true" />
+      <created>1708505491884</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1708505491884</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add formatSpecifier.py" />
+    <MESSAGE value="Add stringMethods.py" />
+    <MESSAGE value="Add validateUserExercise.py" />
+    <MESSAGE value="Add whileLoop.py" />
+    <MESSAGE value="Add compoundInterest.py" />
+    <MESSAGE value="Add countdownTimer.py" />
+    <MESSAGE value="Add forLoops.py" />
+    <MESSAGE value="Add nestedLoops.py" />
+    <MESSAGE value="Add 2dCollection.py" />
+    <MESSAGE value="Add creditCardValidator.py" />
+    <MESSAGE value="Add shopCart.py" />
+    <MESSAGE value="Add quizGame.py" />
+    <MESSAGE value="Add concessionStand.py" />
+    <MESSAGE value="Add diceroller.py" />
+    <MESSAGE value="Add dictionaries.py" />
+    <MESSAGE value="Add generateRandomNo.py" />
+    <MESSAGE value="Add rockpaperscissors.py" />
+    <MESSAGE value="Add functions.py" />
+    <MESSAGE value="Add scopeResolution.py" />
+    <MESSAGE value="Add keywordArgument.py" />
+    <MESSAGE value="Add exampleModule.py" />
+    <MESSAGE value="Add modules.py" />
+    <MESSAGE value="Add argsKwargs.py" />
+    <MESSAGE value="Add defaultarguments.py" />
+    <MESSAGE value="Add encryptionprogram.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add encryptionprogram.py" />
   </component>
 </project>
