@@ -54,11 +54,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.2dCollection.executor": "Run",
+    "Python.abstractClasses.executor": "Run",
     "Python.areaCalc.executor": "Run",
     "Python.argsKwargs.executor": "Run",
     "Python.arithmetic.executor": "Run",
     "Python.builtInFunc.executor": "Run",
     "Python.calculator.executor": "Run",
+    "Python.carMain.executor": "Run",
     "Python.circumCircle.executor": "Run",
     "Python.compoundInterest.executor": "Run",
     "Python.concessionStand.executor": "Run",
@@ -68,31 +70,48 @@
     "Python.defaultarguments.executor": "Run",
     "Python.diceroller.executor": "Run",
     "Python.dictionaries.executor": "Run",
+    "Python.ducktyping.executor": "Run",
     "Python.emailSlicer.executor": "Run",
     "Python.encryptionprogram.executor": "Run",
+    "Python.filter.executor": "Run",
     "Python.forLoops.executor": "Run",
     "Python.formatSpecifier.executor": "Run",
+    "Python.functionToVariables.executor": "Run",
     "Python.functions.executor": "Run",
     "Python.generateRandomNo.executor": "Run",
+    "Python.higherorderFunc.executor": "Run",
     "Python.hypotenuse.executor": "Run",
+    "Python.inheritance.executor": "Run",
     "Python.keywordArgument.executor": "Run",
+    "Python.lambda.executor": "Run",
+    "Python.listComprehension.executor": "Run",
     "Python.logicalOperators.executor": "Run",
     "Python.madLibs.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.map.executor": "Run",
     "Python.mathModule.executor": "Run",
+    "Python.methodChaining.executor": "Run",
+    "Python.methodOverriding.executor": "Run",
     "Python.modules.executor": "Run",
+    "Python.multilevel-inheritance.executor": "Run",
+    "Python.multipleInheritance.executor": "Run",
     "Python.nestedLoops.executor": "Run",
+    "Python.objectsArguments.executor": "Run",
     "Python.quizGame.executor": "Run",
     "Python.radiusCircle.executor": "Run",
+    "Python.reduce.executor": "Run",
     "Python.rockpaperscissors.executor": "Run",
     "Python.scopeResolution.executor": "Run",
     "Python.shopCart.executor": "Run",
     "Python.shoppingCart.executor": "Run",
+    "Python.sort.executor": "Run",
     "Python.stringIndexing.executor": "Run",
     "Python.stringMethods.executor": "Run",
+    "Python.superFunction.executor": "Run",
     "Python.temperatureConverter.executor": "Run",
     "Python.userInput.executor": "Run",
     "Python.validateUserExercise.executor": "Run",
+    "Python.walrusOperator.executor": "Run",
     "Python.weightConverter.executor": "Run",
     "Python.whileLoop.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -108,6 +127,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\microverse\python\python-lesson\writefile" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python-lesson" />
@@ -147,46 +171,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708100064339</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Create OOP lessons using car">
-      <option name="closed" value="true" />
-      <created>1708102219148</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1708102219148</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Learn collection">
-      <option name="closed" value="true" />
-      <created>1708107747088</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1708107747088</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Learn collection">
-      <option name="closed" value="true" />
-      <created>1708182026389</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1708182026389</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Done 3 Exercises">
-      <option name="closed" value="true" />
-      <created>1708184561396</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1708184561396</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Exercise on radius of a circle">
-      <option name="closed" value="true" />
-      <created>1708191874079</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1708191874079</updated>
     </task>
     <task id="LOCAL-00006" summary="Exercise on arithmetic">
       <option name="closed" value="true" />
@@ -476,7 +460,111 @@
       <option name="project" value="LOCAL" />
       <updated>1708505491884</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Add abstractClasses.py">
+      <option name="closed" value="true" />
+      <created>1708626015177</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1708626015177</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Add ducktyping.py">
+      <option name="closed" value="true" />
+      <created>1708626027684</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1708626027684</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Add methodChaining.pypy">
+      <option name="closed" value="true" />
+      <created>1708626042519</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1708626042519</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Add oop">
+      <option name="closed" value="true" />
+      <created>1708626054093</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1708626054093</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Add inheritance.py">
+      <option name="closed" value="true" />
+      <created>1708626066909</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1708626066909</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Add superFunction.py">
+      <option name="closed" value="true" />
+      <created>1708626076351</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1708626076351</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Add walrusOperator.py">
+      <option name="closed" value="true" />
+      <created>1708626087012</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1708626087012</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Add multipleInheritance.py">
+      <option name="closed" value="true" />
+      <created>1708626094919</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1708626094919</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Add multilevel-inheritance.py">
+      <option name="closed" value="true" />
+      <created>1708626106806</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1708626106806</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Add objectsArguments.py">
+      <option name="closed" value="true" />
+      <created>1708626117986</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1708626117986</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Add functionToVariables.py">
+      <option name="closed" value="true" />
+      <created>1708626126456</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1708626126457</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Add methodOverriding.py">
+      <option name="closed" value="true" />
+      <created>1708626142318</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1708626142318</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Add higherorderFunc.py">
+      <option name="closed" value="true" />
+      <created>1708670120951</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1708670120952</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,19 +579,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add formatSpecifier.py" />
-    <MESSAGE value="Add stringMethods.py" />
-    <MESSAGE value="Add validateUserExercise.py" />
-    <MESSAGE value="Add whileLoop.py" />
-    <MESSAGE value="Add compoundInterest.py" />
-    <MESSAGE value="Add countdownTimer.py" />
-    <MESSAGE value="Add forLoops.py" />
-    <MESSAGE value="Add nestedLoops.py" />
-    <MESSAGE value="Add 2dCollection.py" />
-    <MESSAGE value="Add creditCardValidator.py" />
-    <MESSAGE value="Add shopCart.py" />
-    <MESSAGE value="Add quizGame.py" />
-    <MESSAGE value="Add concessionStand.py" />
     <MESSAGE value="Add diceroller.py" />
     <MESSAGE value="Add dictionaries.py" />
     <MESSAGE value="Add generateRandomNo.py" />
@@ -516,6 +591,19 @@
     <MESSAGE value="Add argsKwargs.py" />
     <MESSAGE value="Add defaultarguments.py" />
     <MESSAGE value="Add encryptionprogram.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add encryptionprogram.py" />
+    <MESSAGE value="Add abstractClasses.py" />
+    <MESSAGE value="Add ducktyping.py" />
+    <MESSAGE value="Add methodChaining.pypy" />
+    <MESSAGE value="Add oop" />
+    <MESSAGE value="Add inheritance.py" />
+    <MESSAGE value="Add superFunction.py" />
+    <MESSAGE value="Add walrusOperator.py" />
+    <MESSAGE value="Add multipleInheritance.py" />
+    <MESSAGE value="Add multilevel-inheritance.py" />
+    <MESSAGE value="Add objectsArguments.py" />
+    <MESSAGE value="Add functionToVariables.py" />
+    <MESSAGE value="Add methodOverriding.py" />
+    <MESSAGE value="Add higherorderFunc.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add higherorderFunc.py" />
   </component>
 </project>
