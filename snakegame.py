@@ -4,7 +4,7 @@ import random
 GAME_WIDTH = 1000
 GAME_HEIGHT = 700
 SPEED = 100
-SPACE_SIZE = 25
+SPACE_SIZE = 30
 BODY_PARTS = 3
 SNAKE_COLOR = "#0000FF"
 FOOD_COLOR = "#FFFF00"
@@ -17,19 +17,19 @@ class Snake:
         self.squares = []
 
         for i in range(0, BODY_PARTS):
-            self.coordinates.append([0,0])
+            self.coordinates.append([0, 0])
 
-        for x,y in self.coordinates:
+        for x, y in self.coordinates:
             square = canvas.create_rectangle(x, y, x + SPACE_SIZE, y + SPACE_SIZE, fill=SNAKE_COLOR, tag="snake")
             self.squares.append(square)
 
 
 class Food:
     def __init__(self):
-        x = random.randint(0,int(GAME_WIDTH/SPACE_SIZE) -1) * SPACE_SIZE
+        x = random.randint(0, int(GAME_WIDTH / SPACE_SIZE) - 1) * SPACE_SIZE
         y = random.randint(0, int(GAME_HEIGHT / SPACE_SIZE) - 1) * SPACE_SIZE
 
-        self.coordinates = [x,y]
+        self.coordinates = [x, y]
 
         canvas.create_oval(x, y, x + SPACE_SIZE, y + SPACE_SIZE, fill=FOOD_COLOR, tag="food")
 
@@ -45,11 +45,11 @@ def next_turn(snake,food):
     elif direction == "right":
         x += SPACE_SIZE
 
-    snake.coordinates.insert(0,(x,y))
+    snake.coordinates.insert(0, (x, y))
 
-    square = canvas.create_rectangle(x,y,x+SPACE_SIZE,y+SPACE_SIZE,fill=SNAKE_COLOR)
+    square = canvas.create_rectangle(x, y, x+SPACE_SIZE, y+SPACE_SIZE, fill=SNAKE_COLOR)
 
-    snake.squares.insert(0,square)
+    snake.squares.insert(0, square)
 
     if x == food.coordinates[0] and y == food.coordinates[1]:
         global score
@@ -110,7 +110,6 @@ def game_over():
 window = Tk()
 
 window.title("Snake game")
-window.resizable(False,False)
 
 score = 0
 direction = 'down'
